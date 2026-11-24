@@ -1,0 +1,32 @@
+
+{
+    "Food": [
+        "swiggy",
+        "zomato",
+        "cafe",
+        "restaurant",
+        "blinkit",
+        "zepto"
+    ],
+    "Travel": [
+        "uber",
+        "ola",
+        "rapido",
+        "irctc",
+        "metro",
+        "petrol"
+    ],
+    "Shopping": [
+        "amazon",
+        "flipkart",
+        "myntra",
+        "zudio"
+    ],
+    "Bills": [
+        "airtel",
+        "jio",
+        "electricity",
+        "broadband",
+        "recharge"
+    ]
+}
